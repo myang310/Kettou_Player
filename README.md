@@ -1,7 +1,7 @@
 ## Randomized Media Player for Kettou's Cards
 
 For those of you who recently bought the card game,
-[Kettou](http://www.tableforged.com/kettou "Kettou by Table Forged), you'll
+[Kettou](http://www.tableforged.com/kettou "Kettou by Table Forged"), you'll
 notice that there aren't any online tools to play the different media files
 provided by Table Forged randomly and on command. Therefore, you would likely
 need a third person on standby reading out a random card every round. Instead,

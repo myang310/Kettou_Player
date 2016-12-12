@@ -3,13 +3,13 @@
 For those of you who recently bought the card game,
 [Kettou](http://www.tableforged.com/kettou "Kettou by Table Forged"), you'll
 notice that there aren't any online tools to play the different media files
-provided by Table Forged randomly and on command. Therefore, you would likely
-need a third person on standby reading out a random card every round. Instead,
-why not have a program automate that and have it call out a random card every
-round with the press of a button? I have quickly written up a simple program
-runnable on the terminal. All the necessary files to compile and run the
-program are included in this repo. Simply compile and run the program per the
-commands below:
+provided by [Table Forged](http://www.tableforged.com "Table Forged") randomly
+and on command. Therefore, you would likely need a third person on standby
+reading out a random card every round. Instead, why not have a program automate
+that and have it call out a random card every round with the press of a button?
+I have quickly written up a simple program runnable on the terminal. All the
+necessary files to compile and run the program are included in this repo.
+Simply compile and run the program per the commands below:
 
 ##### Compiling:
 ```bash
